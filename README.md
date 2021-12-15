@@ -1,29 +1,34 @@
-<h1 align="center">Olá 👋, Eu sou Alvaro Pereira Da Silva</h1>
-<h3 align="center">Estudante de Desenvolvimento Front-end, completamente apaixonado pela programação, e cada vez mais procuro me evoluir nesse mundo.</h3>
 
-- 🌱 Atualmente estou aprendendo **JS na Web e React**
 
-- 💬 Me pergunte sobre **Html, CSS, JavaScript, PostgreSQL**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 📫 Você me acha através desse e-mai **alvaro.pereiraj4@gmail.com**
-
-- 📄 Não possuo muitas experiência, comecei meu primeiro estágio no mês de Setembro desse ano ainda estou adquirindo algumas rotinas, skills e experiência em si. [https://www.linkedin.com/in/alvaro-pereira-70774a205/](https://www.linkedin.com/in/alvaro-pereira-70774a205/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-pereira-70774a205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvaro-pereira-70774a205/" height="30" width="40" /></a>
-<a href="https://instagram.com/hypeshakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hypeshakur" height="30" width="40" /></a>
-<a href="https://discord.gg/AlvaroJ4#3455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlvaroJ4#3455" height="30" width="40" /></a>
+<p align="left"> 
+  Olá 👋, Me chamo Alvaro Pereira Da Silva.Sou Desenvolvedor de Front-End. </br>
+  No momento estou fazendo cursos na Alura para termina minha formação Front-end e aprimorar minhas skils.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  🦄Habilidades :<strong>HTML, CSS, JavaScript, PostgreSQL e Python </strong>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroj4&show_icons=true&locale=en&layout=compact" alt="alvaroj4" /></p>
+<p align="left">
+  💼 Ferramentas:<strong> VSCode , Bootstrap, Git e GitHub </strobg>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaroj4&show_icons=true&locale=en" alt="alvaroj4" /></p>
+<p align="left">
+  💌 Caso queiratrar em contato comigo:
+</p>
 
+<p align="left">
+  <a href="#"alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" /></a>
 
+  <a href="https://www.linkedin.com/in/alvaro-pereira-70774a205/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://www.instagram.com/hypeshakur/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
 
 
