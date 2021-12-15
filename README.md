@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Caso queiratrar em contato comigo:
+  💌 Caso queir entrar em contato comigo:
 </p>
 
 <p align="left">
