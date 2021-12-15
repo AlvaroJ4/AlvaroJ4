@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá 👋, Me chamo Alvaro Pereira Da Silva.Sou Desenvolvedor de Front-End. </br>
+  Olá 👋, Me chamo Alvaro Pereira Da Silva. Sou Desenvolvedor de Front-End. </br>
   No momento estou fazendo cursos na Alura para termina minha formação Front-end e aprimorar minhas skils.
 </p>
 
